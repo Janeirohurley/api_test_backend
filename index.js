@@ -9,11 +9,11 @@ app.listen(PORT, () => {
 })
 
 app.get('/', (req, res) => {
-  res.send('Hey this is my API well 🥳')
+  res.send('Hey this is my API well 🥳 nooooo')
 })
 
 app.get('/about', (req, res) => {
-  res.send('This is my about route... hhhahahahahaha.. ')
+  res.send('This is my about route... hhhahahahahaha.. mpejeje guko ikindi hhh ')
 })
 
 module.exports = app
